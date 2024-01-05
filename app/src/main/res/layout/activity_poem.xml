@@ -22,6 +22,6 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="دوستان وقت گل آن به که به عشرت کوشیم\r\nسخن اهل دل است این و به جان بنیوشیم\r\nنیست در کس کرم و وقت طرب می گذرد\r\nچاره آن است که سجاده به می بفروشیم\r\nخوش هواییست فرح بخش خدایا بفرست\r\nنازنینی که به رویش می گلگون نوشیم\r\nارغنون ساز فلک رهزن اهل هنر است\r\nچون از این غصه ننالیم و چرا نخروشیم\r\nگل به جوش آمد و از می نزدیمش آبی\r\nلاجرم ز آتش حرمان و هوس می جوشیم\r\nمی کشیم از قدح لاله شرابی موهوم\r\nچشم بد دور که بی مطرب و می مدهوشیم\r\nحافظ این حال عجب با که توان گفت که ما\r\nبلبلانیم که در موسم گل خاموشیم" />
+            android:text="درحال دریافت اطلاعات..."/>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.core.widget.NestedScrollView>
