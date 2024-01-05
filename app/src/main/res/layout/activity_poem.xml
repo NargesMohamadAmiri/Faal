@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PoemActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/poemTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textDirection="rtl"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="دوستان وقت گل آن به که به عشرت کوشیم\r\nسخن اهل دل است این و به جان بنیوشیم\r\nنیست در کس کرم و وقت طرب می گذرد\r\nچاره آن است که سجاده به می بفروشیم\r\nخوش هواییست فرح بخش خدایا بفرست\r\nنازنینی که به رویش می گلگون نوشیم\r\nارغنون ساز فلک رهزن اهل هنر است\r\nچون از این غصه ننالیم و چرا نخروشیم\r\nگل به جوش آمد و از می نزدیمش آبی\r\nلاجرم ز آتش حرمان و هوس می جوشیم\r\nمی کشیم از قدح لاله شرابی موهوم\r\nچشم بد دور که بی مطرب و می مدهوشیم\r\nحافظ این حال عجب با که توان گفت که ما\r\nبلبلانیم که در موسم گل خاموشیم" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>
