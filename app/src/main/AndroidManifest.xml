@@ -23,19 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".NiatActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".NiatActivity" />
         <activity
             android:name=".PoemActivity"
             android:label="@string/title_activity_poem"
-            android:theme="@style/Theme.Faal"></activity>
+            android:theme="@style/Theme.Faal" />
     </application>
 
 </manifest>
