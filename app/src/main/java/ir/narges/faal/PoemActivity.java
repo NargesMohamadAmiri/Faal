@@ -11,8 +11,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
-
-import ir.narges.faal.ApiService;
 import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Callback;
